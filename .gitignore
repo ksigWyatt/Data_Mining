@@ -2,6 +2,7 @@
 
 *.txt
 *.doc
+*.docx
 *.zip
 *.arff
 *.pdf
