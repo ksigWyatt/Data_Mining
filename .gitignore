@@ -1,0 +1,10 @@
+# ignoring text files as well as any large or binary files
+
+*.txt
+*.doc
+*.zip
+*.arff
+*.pdf
+
+
+# .csv files will not be ignored because they are required to run the programs in Matlab
